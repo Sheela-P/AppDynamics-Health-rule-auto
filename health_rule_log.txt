@@ -1,0 +1,4 @@
+2025-08-06 06:22:38,813 - INFO - Suggested CPU threshold: 99.55% based on high usage.
+2025-08-06 06:22:39,987 - INFO - Threshold committed and pushed to GitHub.
+2025-08-06 06:33:33,807 - INFO - Suggested CPU threshold: 85.55% based on high usage.
+2025-08-06 06:33:35,010 - INFO - Threshold committed and pushed to GitHub.
