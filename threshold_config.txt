@@ -1,1 +1,1 @@
-CPU Threshold: 99.55%
+CPU Threshold: 85.55%
