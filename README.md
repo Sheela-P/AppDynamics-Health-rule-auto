@@ -1,0 +1,1 @@
+# AppDynamics-Health-rule-auto
